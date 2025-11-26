@@ -31,16 +31,22 @@ A simplified HistoryProvider using MockStorage to record calculation history.
 Expression	Expected
 5 + 3	8
 <img width="373" height="24" alt="image" src="https://github.com/user-attachments/assets/210c2d1f-84eb-4104-bb80-64ba5215fa3a" />
+
 10 - 4	6
 <img width="330" height="25" alt="image" src="https://github.com/user-attachments/assets/48a89be5-3dc0-4499-b375-12bf79813b4d" />
+
 2 + 3 × 4	14
 <img width="440" height="22" alt="image" src="https://github.com/user-attachments/assets/eb2e4c4f-2116-4e44-a7fd-d9b4fc8fac47" />
+
 (2 + 3) × 4	20
 <img width="451" height="27" alt="image" src="https://github.com/user-attachments/assets/c0106186-b837-40a2-b24f-135c2d0287d5" />
+
 5 ÷ 0	Infinity
 <img width="301" height="28" alt="image" src="https://github.com/user-attachments/assets/0ed1c2eb-380c-4932-897b-0914613ffac9" />
+
 sqrt(-4)	NaN
 <img width="289" height="27" alt="image" src="https://github.com/user-attachments/assets/c067a27c-d7bb-4d90-99be-f6f725661540" />
+
 
 🔹 B. Scientific Mode Tests
 Expression	Expected
