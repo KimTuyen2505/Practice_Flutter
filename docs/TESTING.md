@@ -7,6 +7,10 @@ Reliable • Maintainable • Fully Tested
 🔍 A full test suite ensuring correctness across arithmetic, scientific, programmer mode & storage logic.
 </div>
 📘 Overview
+
+<img width="1536" height="997" alt="image" src="https://github.com/user-attachments/assets/3e03f39b-33ef-473d-b918-a10e8bcc924f" />
+
+
 This document provides a clean summary of all automated unit tests implemented for the Calculator App.
 Focus areas:
 Expression evaluation
