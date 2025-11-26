@@ -118,6 +118,7 @@ Test	Output
 <img width="356" height="21" alt="image" src="https://github.com/user-attachments/assets/57a73428-0859-4cea-aed0-262744131325" />
 
 NOT 0x00	0xFFFFFFFF
+
 <img width="349" height="25" alt="image" src="https://github.com/user-attachments/assets/ed9ac4ad-77c1-4419-83eb-f5a197f6688d" />
 
 0x03 << 1	0x06
