@@ -105,6 +105,7 @@ Examples:
 
 # 📈 Graph Plotting
 <img width="356" height="772" alt="image" src="https://github.com/user-attachments/assets/2899c390-0694-4abd-a43a-60bd47845c73" />
+
 The `GraphScreen` allows plotting any function of `x`, including:
 
 - `sin(x)`
