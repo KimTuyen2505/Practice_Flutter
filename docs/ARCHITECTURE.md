@@ -48,6 +48,7 @@ lib/
 ├── models/
 │ ├── calculator_settings.dart
 │ ├── calculation_history.dart
+│ ├── calculator_mode.dart
 │
 ├── providers/
 │ ├── calculator_provider.dart
@@ -56,12 +57,12 @@ lib/
 │
 ├── services/
 │ ├── storage_service.dart
-│ ├── theme_service.dart (optional)
 │
 ├── utils/
 │ ├── expression_parser.dart
 │ ├── calculator_logic.dart
 │ ├── programmer_logic.dart
+│ ├── constants.dart
 │
 ├── screens/
 │ ├── calculator_screen.dart
@@ -73,6 +74,7 @@ lib/
 │ ├── display_area.dart
 │ ├── button_grid.dart
 │ ├── mode_selector.dart
+│ ├── calculator_button.dart
 
 
 ---
