@@ -1,7 +1,5 @@
 # 📱 Advanced Calculator – Flutter Project
-<img width="361" height="773" alt="image" src="https://github.com/user-attachments/assets/0a26fdde-1527-4b75-af2f-59fca9a49c0c" />
-<img width="364" height="774" alt="image" src="https://github.com/user-attachments/assets/bd8beaea-a177-4a43-aba6-4a68040e9946" />
-<img width="363" height="781" alt="image" src="https://github.com/user-attachments/assets/95252a7f-e0ef-42a2-b310-4af5573daa2a" />
+<img width="361" height="773" alt="image" src="https://github.com/user-attachments/assets/0a26fdde-1527-4b75-af2f-59fca9a49c0c" /><img width="364" height="774" alt="image" src="https://github.com/user-attachments/assets/bd8beaea-a177-4a43-aba6-4a68040e9946" /><img width="363" height="781" alt="image" src="https://github.com/user-attachments/assets/95252a7f-e0ef-42a2-b310-4af5573daa2a" />
 
 A fully featured **multi-mode calculator** built with **Flutter**, including  
 **Basic**, **Scientific**, and **Programmer** modes, a persistent **History system**,  
